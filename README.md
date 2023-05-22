@@ -1,5 +1,5 @@
-# Multilocus Phylogenetic Investigation of Homalopsidae
-Data and scripts for the phylogenomic investigation of Mud Snakes (Homalopsidae). 
+# Phylogenomic Investigation of Homalopsidae
+Data and scripts for the phylogenomic investigation of Mud Snakes (Homalopsidae) using SqCL v2 probe set. 
 
 
 
