@@ -23,7 +23,7 @@ library(phangorn)
 
 ### Import Nexus Tree File ###
 
-tree <- read.nexus(file="Homalopsidae_Final_Genomics_Dated.tre")
+tree <- read.nexus(file="Supplementary_DataD7_ASR-input-tree_Homalopsidae_Chronogram.tre")
 tree
 
 
