@@ -9,9 +9,21 @@ Raw sequence files for target capture can be found on the Sequence Read Archive 
 * [Phyluce-1.7.1](https://phyluce.readthedocs.io/en/latest/installation.html) was used for data processing. Check here for scripts (raw data on SR Database) :
   >[https://github.com/jbernst/homalopsidae_genomics/tree/main/phyluce-1.7.1](https://github.com/jbernst/homalopsidae_genomics/tree/main/phyluce-1.7.1)
 * Raw data can be found on the Sequence Reach Archive under BioProject ID PRJNA792597.
-* Barcode and Adapter Information is 
+  >TO INSERT LINK
+* Specimen, Barcode, and Adapter Information can be found here:
+  >[https://github.com/jbernst/homalopsidae_genomics/blob/main/AppendixS1_Specimen-Lists.xlsx](https://github.com/jbernst/homalopsidae_genomics/blob/main/AppendixS1_Specimen-Lists.xlsx). 
 
 ## Ancestral State Reconstruction
+* [APE](https://cran.r-project.org/web/packages/ape/index.html) was used for ancestral state reconstructions on homalopsids. Associated R code and input files are found here:
+  >[https://github.com/jbernst/homalopsidae_genomics/tree/main/APE_Ancestral-State-Reconstructions](https://github.com/jbernst/homalopsidae_genomics/tree/main/APE_Ancestral-State-Reconstructions) 
+
+## Hidden Geographic State Speciation and Extinction (GeoHiSSE)
+* [GeoHiSSE](https://doi.org/10.1093/sysbio/syw022) was run using the [GeoHiSSE vignette](https://cran.r-project.org/web/packages/hisse/vignettes/GeoHiSSE-vignette.pdf). 
+* The modified code and input time-calibrated trees are found at:
+  >[https://github.com/jbernst/homalopsidae_genomics/tree/main/GeoHiSSE](https://github.com/jbernst/homalopsidae_genomics/tree/main/GeoHiSSE)
+
+#TO EDIT BELOW
+
 ## Source Publication
 Bernstein, J. M., Murphy, J. C., Voris, H. K., Brown, R. M., Ruane, S. 2021. Phylogenetics of Mud Snakes (Squamata: Serpentes: 
 Homalopsidae): A Paradox of Both Undescribed Diversity and Taxonomic Inflation. Molecular Phylogenetics and Evolution 160: 107109.
