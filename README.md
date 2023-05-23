@@ -17,9 +17,10 @@ Raw sequence files for target capture can be found on the Sequence Read Archive 
 * [IQTREE v1](http://www.iqtree.org/) and [RAxML-NG](https://github.com/amkozlov/raxml-ng) were used to reconstruct phylogenies. RAxML-NG was used simply for constraint tree, and is not included here. However, the
   IQTREE analyses can be found here: 
   >[https://github.com/jbernst/homalopsidae_genomics/tree/main/IQTREE](https://github.com/jbernst/homalopsidae_genomics/tree/main/IQTREE).  
-* [ASTRAL-III](https://github.com/smirarab/ASTRAL) was used to generate the time-calibrated phylogeny. The input gene trees and code can be found here:  
+* [ASTRAL-III](https://github.com/smirarab/ASTRAL) was used to generate the species tree. The input gene trees and code can be found here:  
   >[https://github.com/jbernst/homalopsidae_genomics/tree/main/ASTRAL-III](https://github.com/jbernst/homalopsidae_genomics/tree/main/ASTRAL-III)
-
+* [treePL](https://github.com/blackrim/treePL) was used time-calibrate the ASTRAL species tree. Time calibration points and code can be found at:
+*  
 ## Ancestral State Reconstruction
 * [APE](https://cran.r-project.org/web/packages/ape/index.html) was used for ancestral state reconstructions on homalopsids. Associated R code and input files are found here:
   >[https://github.com/jbernst/homalopsidae_genomics/tree/main/APE_Ancestral-State-Reconstructions](https://github.com/jbernst/homalopsidae_genomics/tree/main/APE_Ancestral-State-Reconstructions) 
