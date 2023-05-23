@@ -25,7 +25,8 @@ Raw sequence files for target capture can be found on the Sequence Read Archive 
 ## Ancestral Range Estimation
 * [BioGeoBEARS](https://github.com/nmatzke/BioGeoBEARS) in R was used to perform ancestral range estimation on the time-calibrated trees from treePL. The [BioGeoBEARS Wiki](http://phylo.wikidot.com/biogeobears)
   is extrememly helpful in running these analyses. The code and input files for BioGeoBEARS can be found here:
-  >
+  >Fresh Samples - [https://github.com/jbernst/homalopsidae_genomics/tree/main/BioGeoBEARS](https://github.com/jbernst/homalopsidae_genomics/tree/main/BioGeoBEARS)
+  >Formalin and Fresh Samples (cyt-b) - 
 
 ## Ancestral State Reconstruction
 * [APE](https://cran.r-project.org/web/packages/ape/index.html) was used for ancestral state reconstructions on homalopsids. Associated R code and input files are found here:
