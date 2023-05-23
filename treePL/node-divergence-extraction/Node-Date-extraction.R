@@ -1,3 +1,6 @@
+# Code for extracting divergence dates from nodes from Burbrink et al. (2020) (https://doi.org/10.1093/sysbio/syz062).
+# Code modified from custom scripts by Frank Burbrink.
+
 #set working directory
 setwd("D:/Documents/Homalopsidae_Phylogenomics/R_Burbrink2020_TreeDates/Dated_Trees_Fast_Bootstrapped[1]/Dated_Trees_Fast_Bootstrapped/")
 getwd()
