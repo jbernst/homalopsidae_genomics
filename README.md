@@ -2,7 +2,8 @@
 Data and scripts for the phylogenomic investigation of Mud Snakes (Homalopsidae) using SqCL v2 probe set. 
 Raw sequence files for target capture can be found on the Sequence Read Archive under BioProject ID PRJNA792597.
 
-
+If you modify the code used here, please be sure to cite myself and the original authors of the software in the code!
+To cite this repository, please use: [![DOI](https://zenodo.org/badge/644001397.svg)](https://zenodo.org/badge/latestdoi/644001397)
 
 
 ## SqCL Loci Processing
