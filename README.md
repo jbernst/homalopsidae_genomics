@@ -6,12 +6,19 @@ Raw sequence files for target capture can be found on the Sequence Read Archive 
 
 
 ## SqCL Loci Processing
-* [Phyluce-1.7.1](https://phyluce.readthedocs.io/en/latest/installation.html) was used for data processing. Check here for scripts (raw data on SR Database) :
+* [Phyluce-1.7.1](https://phyluce.readthedocs.io/en/latest/installation.html) was used for data processing. Check here for scripts (raw data on SR Database):  
   >[https://github.com/jbernst/homalopsidae_genomics/tree/main/phyluce-1.7.1](https://github.com/jbernst/homalopsidae_genomics/tree/main/phyluce-1.7.1)
 * Raw data can be found on the Sequence Reach Archive under BioProject ID PRJNA792597.
   >TO INSERT LINK
 * Specimen, Barcode, and Adapter Information can be found here:
   >[https://github.com/jbernst/homalopsidae_genomics/blob/main/AppendixS1_Specimen-Lists.xlsx](https://github.com/jbernst/homalopsidae_genomics/blob/main/AppendixS1_Specimen-Lists.xlsx). 
+
+## Phylogenetic Analyses
+* [IQTREE v1](http://www.iqtree.org/) and [RAxML-NG](https://github.com/amkozlov/raxml-ng) were used to reconstruct phylogenies. RAxML-NG was used simply for constraint tree, and is not included here. However, the
+  IQTREE analyses can be found here: 
+  >[https://github.com/jbernst/homalopsidae_genomics/tree/main/IQTREE](https://github.com/jbernst/homalopsidae_genomics/tree/main/IQTREE).  
+* [ASTRAL-III](https://github.com/smirarab/ASTRAL) was used to generate the time-calibrated phylogeny. The input gene trees and code can be found here:  
+  >
 
 ## Ancestral State Reconstruction
 * [APE](https://cran.r-project.org/web/packages/ape/index.html) was used for ancestral state reconstructions on homalopsids. Associated R code and input files are found here:
