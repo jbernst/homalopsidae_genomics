@@ -20,7 +20,9 @@ Raw sequence files for target capture can be found on the Sequence Read Archive 
 * [ASTRAL-III](https://github.com/smirarab/ASTRAL) was used to generate the species tree. The input gene trees and code can be found here:  
   >[https://github.com/jbernst/homalopsidae_genomics/tree/main/ASTRAL-III](https://github.com/jbernst/homalopsidae_genomics/tree/main/ASTRAL-III)
 * [treePL](https://github.com/blackrim/treePL) was used time-calibrate the ASTRAL species tree. Time calibration points and code can be found at:
-  >[https://github.com/jbernst/homalopsidae_genomics/tree/main/treePL](https://github.com/jbernst/homalopsidae_genomics/tree/main/treePL)
+  >[https://github.com/jbernst/homalopsidae_genomics/tree/main/treePL](https://github.com/jbernst/homalopsidae_genomics/tree/main/treePL)  
+* Secondary node calibrations for treePL were extracted from [Burbrink et al. (2020)](https://doi.org/10.1093/sysbio/syz062) using custom R-code: 
+   [https://github.com/jbernst/homalopsidae_genomics/tree/main/treePL/node-divergence-extraction](https://github.com/jbernst/homalopsidae_genomics/tree/main/treePL/node-divergence-extraction)
 
 ## Ancestral Range Estimation
 * [BioGeoBEARS](https://github.com/nmatzke/BioGeoBEARS) in R was used to perform ancestral range estimation on the time-calibrated trees from treePL. The [BioGeoBEARS Wiki](http://phylo.wikidot.com/biogeobears)
