@@ -18,7 +18,7 @@ Raw sequence files for target capture can be found on the Sequence Read Archive 
   IQTREE analyses can be found here: 
   >[https://github.com/jbernst/homalopsidae_genomics/tree/main/IQTREE](https://github.com/jbernst/homalopsidae_genomics/tree/main/IQTREE).  
 * [ASTRAL-III](https://github.com/smirarab/ASTRAL) was used to generate the time-calibrated phylogeny. The input gene trees and code can be found here:  
-  >
+  >[https://github.com/jbernst/homalopsidae_genomics/tree/main/ASTRAL-III](https://github.com/jbernst/homalopsidae_genomics/tree/main/ASTRAL-III)
 
 ## Ancestral State Reconstruction
 * [APE](https://cran.r-project.org/web/packages/ape/index.html) was used for ancestral state reconstructions on homalopsids. Associated R code and input files are found here:
