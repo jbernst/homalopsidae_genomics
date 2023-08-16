@@ -48,4 +48,4 @@ To cite this repository, please use: [![DOI](https://zenodo.org/badge/644001397.
 
 DOI to paper: []()
 
-![Image]([https://www.flickr.com/photos/191348616@N04/53121066876/in/dateposted-public/](https://live.staticflickr.com/65535/53121066876_e0cb8194fd_h.jpg)https://live.staticflickr.com/65535/53121066876_e0cb8194fd_h.jpg)
+![Image](https://live.staticflickr.com/65535/53121066876_e0cb8194fd_h.jpg)
