@@ -10,7 +10,7 @@ To cite this repository, please use: [![DOI](https://zenodo.org/badge/644001397.
 * [Phyluce-1.7.1](https://phyluce.readthedocs.io/en/latest/installation.html) was used for data processing. Check here for scripts (raw data on SR Database):  
   >[https://github.com/jbernst/homalopsidae_genomics/tree/main/phyluce-1.7.1](https://github.com/jbernst/homalopsidae_genomics/tree/main/phyluce-1.7.1)
 * Raw data can be found on the Sequence Reach Archive under BioProject ID PRJNA792597.
-  >TO INSERT LINK
+  >[https://www.ncbi.nlm.nih.gov/sra/?term=PRJNA792597](https://www.ncbi.nlm.nih.gov/sra/?term=PRJNA792597)
 * Specimen, Barcode, and Adapter Information can be found here:
   >[https://github.com/jbernst/homalopsidae_genomics/blob/main/AppendixS1_Specimen-Lists.xlsx](https://github.com/jbernst/homalopsidae_genomics/blob/main/AppendixS1_Specimen-Lists.xlsx). 
 
