@@ -46,6 +46,6 @@ To cite this repository, please use: [![DOI](https://zenodo.org/badge/644001397.
 
 [Link to Paper]()
 
-DOI to paper: []()
+DOI to paper: [https://ssbbulletin.org/index.php/bssb/article/view/9393/7948](https://ssbbulletin.org/index.php/bssb/article/view/9393/7948)
 
 ![Image](https://live.staticflickr.com/65535/53121066876_e0cb8194fd_h.jpg)
