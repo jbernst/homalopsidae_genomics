@@ -40,12 +40,10 @@ To cite this repository, please use: [![DOI](https://zenodo.org/badge/644001397.
 * The modified code and input time-calibrated trees are found at:
   >[https://github.com/jbernst/homalopsidae_genomics/tree/main/GeoHiSSE](https://github.com/jbernst/homalopsidae_genomics/tree/main/GeoHiSSE)
 
-#TO EDIT BELOW
-
 ## Source Publication
 
 [Link to Paper]()
 
 DOI to paper: [https://ssbbulletin.org/index.php/bssb/article/view/9393/7948](https://ssbbulletin.org/index.php/bssb/article/view/9393/7948)
-
+DOI to data: [https://doi.org/10.5061/dryad.hdr7sqvnc](https://doi.org/10.5061/dryad.hdr7sqvnc).
 ![Image](https://live.staticflickr.com/65535/53121066876_e0cb8194fd_h.jpg)
