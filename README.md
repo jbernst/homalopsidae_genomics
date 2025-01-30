@@ -2,10 +2,6 @@
 Data and scripts for the phylogenomic investigation of Mud Snakes (Homalopsidae) using SqCL v2 probe set. 
 Raw sequence files for target capture can be found on the Sequence Read Archive under BioProject ID PRJNA792597.
 
-If you modify the code used here, please be sure to cite myself and the original authors of the software in the code!
-To cite this repository, please use: [![DOI](https://zenodo.org/badge/644001397.svg)](https://zenodo.org/badge/latestdoi/644001397)
-
-
 ## SqCL Loci Processing
 * [Phyluce-1.7.1](https://phyluce.readthedocs.io/en/latest/installation.html) was used for data processing. Check here for scripts (raw data on SR Database):  
   >[https://github.com/jbernst/homalopsidae_genomics/tree/main/phyluce-1.7.1](https://github.com/jbernst/homalopsidae_genomics/tree/main/phyluce-1.7.1)
@@ -46,7 +42,10 @@ Bernstein, J. M., de Souza, H. F., Murphy, J. C., Voris, H. K., Brown, R. M., My
 8.	
 
 [Link to Paper](https://ssbbulletin.org/index.php/bssb/article/view/9393/7948)
-
 DOI to paper: [https://ssbbulletin.org/index.php/bssb/article/view/9393/7948](https://ssbbulletin.org/index.php/bssb/article/view/9393/7948)  
 DOI to data: [https://doi.org/10.5061/dryad.hdr7sqvnc](https://doi.org/10.5061/dryad.hdr7sqvnc).
+
+## Citation
+If using any of the custom scripts or workflows here, please cite this repository using: [![DOI](https://zenodo.org/badge/644001397.svg)](https://zenodo.org/badge/latestdoi/644001397) and the original [source publication](https://ssbbulletin.org/index.php/bssb/article/view/9393/7948).
+
 ![Image](https://live.staticflickr.com/65535/53121066876_e0cb8194fd_h.jpg)
